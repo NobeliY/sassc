@@ -1,4 +1,4 @@
 [wrap-git]
 directory=libsass
-url=git@github.com:NobeliY/sassc.git
+url=https://github.com/NobeliY/libsass.git
 revision=meson
