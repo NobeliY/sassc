@@ -1,4 +1,4 @@
 [wrap-git]
 directory=libsass
-url=https://github.com/lazka/libsass.git
+url=git://github.com/lazka/libsass.git
 revision=meson
